@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../dalxiis-agency"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "dalxis agenc",
+		"liveServer.settings.port": 5502
+	}
+}
